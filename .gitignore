@@ -1,0 +1,12 @@
+/target/
+*/target/
+.idea/
+*.iml
+.DS_Store
+.vagrant
+
+# Adding Eclipse specific ignored files #
+.project
+.settings
+.classpath
+.metadata
